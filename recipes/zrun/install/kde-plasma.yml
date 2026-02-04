@@ -6,7 +6,7 @@ modules:
   - type: dnf
     group-install:
       with-optional: false
-      #install-weak-deps: false
+      install-weak-deps: false
       packages:
           - kde-desktop
           
@@ -18,3 +18,13 @@ modules:
        install-weak-deps: false
        packages:
           - kwin-effect-roundcorners
+          - dolphin-plugins
+          - kf6-sonnet-hunspell
+          - kf6-kidletime-x11
+          - xrandr
+          - xsettingsd
+          - xdriinfo
+          - plasma-milou
+          - qt6-qtimageformats
+          - qt6-qttranslations
+          - vlc-plugin-ffmpeg
