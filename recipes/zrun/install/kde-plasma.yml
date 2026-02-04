@@ -8,6 +8,8 @@ modules:
        packages:
           - plasma-desktop
           - plasma-workspace
+          - plasma-workspace-common
+          - plasma-workspace-libs
           - xdg-desktop-portal-kde
           - sddm
           - sddm-breeze
@@ -30,3 +32,12 @@ modules:
           - xdg-desktop-portal
           - xdg-utils
           - polkit-kde
+          - xdg-desktop-portal-gtk
+          - plasma-browser-integration
+          - kwin
+          - kscreenlocker
+          - wayland-utils
+          - flatpak-kcm
+          - kdeplasma-addons
+          - kscreen
+          - wl-clipboard

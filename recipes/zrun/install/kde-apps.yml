@@ -19,3 +19,5 @@ modules:
           - krfb
           - kio-admin
           - konsole
+          - spectacle
+          - kwalletmanager
