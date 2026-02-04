@@ -3,6 +3,9 @@
 
 modules:
   - type: dnf
+    repos:
+      copr:
+        - matinlotfali/KDE-Rounded-Corners
     install:
        install-weak-deps: false
        packages:
@@ -16,6 +19,7 @@ modules:
           - sddm-kcm
           - sddm-wayland-plasma
           - kde-settings-sddm
+          - kwin-effect-roundcorners
           - plasma-integration
           - plasma-nm
           - plasma-pa
