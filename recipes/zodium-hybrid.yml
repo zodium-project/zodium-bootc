@@ -22,6 +22,7 @@ modules:
 ## Import Modules/Scripts ##
   - from-file: zrun/install/kde-plasma.yml
   - from-file: zrun/install/kde-apps.yml
+  - from-file: zrum/install/kde-theming.yml
 
   - from-file: zrun/remove/dnf-extras.yml
 
