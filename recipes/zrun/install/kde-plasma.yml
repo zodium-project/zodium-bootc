@@ -45,3 +45,10 @@ modules:
           - kdeplasma-addons
           - kscreen
           - wl-clipboard
+
+  - type: dnf
+    group-install:
+      with-optional: true
+      packages:
+          - kde-desktop
+  
