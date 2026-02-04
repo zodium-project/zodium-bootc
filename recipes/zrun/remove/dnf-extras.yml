@@ -7,3 +7,5 @@ modules:
       packages:
         - plasma-welcome
         - toolbox
+        - kate-libs
+        - kwrite
