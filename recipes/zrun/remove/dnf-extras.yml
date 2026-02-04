@@ -6,3 +6,4 @@ modules:
     remove:
       packages:
         - plasma-welcome
+        - toolbox
