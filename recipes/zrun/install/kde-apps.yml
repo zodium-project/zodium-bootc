@@ -11,5 +11,4 @@ modules:
           - brave-browser
           - kalk
           - krdc
-          - konsole
           - kwalletmanager
