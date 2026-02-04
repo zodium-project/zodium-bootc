@@ -2,6 +2,14 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 
 modules:
+
+  - type: dnf
+    group-install:
+      with-optional: true
+      packages:
+          - kde-desktop
+          - kde-desktop-environment
+          
   - type: dnf
     repos:
       copr:
@@ -46,9 +54,5 @@ modules:
           - kscreen
           - wl-clipboard
 
-  - type: dnf
-    group-install:
-      with-optional: true
-      packages:
-          - kde-desktop
+
   
