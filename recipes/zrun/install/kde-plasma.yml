@@ -5,7 +5,7 @@ modules:
 
   - type: dnf
     group-install:
-      with-optional: true
+      with-optional: false
       packages:
           - kde-desktop
           
@@ -16,9 +16,13 @@ modules:
     install:
        install-weak-deps: false
        packages:
-          - sddm
-          - sddm-breeze
-          - sddm-kcm
-          - sddm-wayland-plasma
-          - kde-settings-sddm
           - kwin-effect-roundcorners
+          - bluedevil
+          - powerdevil
+          - plasma-print-manager
+          - breeze-gtk
+          - kde-gtk-config
+          - xdg-user-dirs
+          - xdg-desktop-portal
+          - xdg-utils
+          - xdg-desktop-portal-gtk

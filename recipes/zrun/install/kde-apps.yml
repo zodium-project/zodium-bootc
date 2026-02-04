@@ -6,18 +6,10 @@ modules:
     install:
        install-weak-deps: false
        packages:
-          - ark
-          - dolphin
           - ptyxis
-          - kde-partitionmanager
           - code
           - brave-browser
           - kalk
-          - kde-connect
-          - krdp
           - krdc
-          - krfb
-          - kio-admin
           - konsole
-          - spectacle
           - kwalletmanager
