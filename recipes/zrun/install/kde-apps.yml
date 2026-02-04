@@ -1,0 +1,21 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    install:
+       install-weak-deps: false
+       packages:
+          - ark
+          - dolphin
+          - ptyxis
+          - kde-partitionmanager
+          - code
+          - brave-browser
+          - kalk
+          - kde-connect
+          - krdp
+          - krdc
+          - krfb
+          - kio-admin
+          - konsole

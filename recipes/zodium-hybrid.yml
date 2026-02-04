@@ -1,0 +1,47 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
+# image will be published to ghcr.io/<user>/<name>
+
+####################
+#### Image Info ####
+####################
+
+name: zodium-hybrid
+description: zodium image for AMD/Intel & NVIDIA GPUs
+
+base-image: ghcr.io/zodium-project/zcore-hybrid
+image-version: latest
+platforms:
+  - linux/amd64
+
+#################
+#### MODULES ####
+#################
+modules:
+
+## Import Modules/Scripts ##
+  - from-file: zrun/install/kde-plasma.yml
+  - from-file: zrun/install/kde-apps.yml
+
+  - from-file: zrun/remove/dnf-extras.yml
+
+#############################
+### End of System Modules ###
+#############################
+
+## OS-release Module ##
+  - type: os-release
+    properties:
+      ID: fedora
+      NAME: zodium
+      PRETTY_NAME: zodium linux by zodium project (hybrid)
+
+## initramfs module ##
+  - type: initramfs
+
+## Signing Module ##
+  - type: signing
+  
+###################
+### END of File ###
+###################

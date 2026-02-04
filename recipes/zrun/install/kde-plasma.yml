@@ -1,0 +1,32 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    install:
+       install-weak-deps: false
+       packages:
+          - plasma-desktop
+          - plasma-workspace
+          - xdg-desktop-portal-kde
+          - sddm
+          - sddm-breeze
+          - sddm-kcm
+          - sddm-wayland-plasma
+          - kde-settings-sddm
+          - plasma-integration
+          - plasma-nm
+          - plasma-pa
+          - bluedevil
+          - powerdevil
+          - plasma-print-manager
+          - plasma-nm-openvpn
+          - plasma-vault
+          - plasma-nm-vpnc
+          - breeze-gtk
+          - breeze-icon-theme
+          - kde-gtk-config
+          - xdg-user-dirs
+          - xdg-desktop-portal
+          - xdg-utils
+          - polkit-kde
