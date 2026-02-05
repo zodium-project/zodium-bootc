@@ -1,0 +1,10 @@
+# /etc/default/grub
+# Hidden GRUB with failure fallback
+
+GRUB_TIMEOUT_STYLE=hidden
+GRUB_TIMEOUT=1
+#GRUB_DISTRIBUTOR="Zodium Linux"
+GRUB_DISABLE_RECOVERY=true
+
+# REQUIRED on Fedora Atomic
+GRUB_ENABLE_BLSCFG=true
