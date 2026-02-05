@@ -31,3 +31,4 @@ modules:
         - kwalletmanager5
         - firewalld
         - firewall-config
+        - fedora-flathub-remote
