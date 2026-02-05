@@ -23,8 +23,8 @@ modules:
   - from-file: zrun/install/kde-plasma.yml
   - from-file: zrun/install/kde-apps.yml
   - from-file: zrun/install/kde-theming.yml
-  - from-file: zrun/install/nerd-fonts.yml
-  - from-file: zrun/install/zsh-settings.yml
+  - from-file: zrun/install/nerd-fonts-emojis.yml
+  - from-file: zrun/install/zsh-shell.yml
 
   - from-file: zrun/remove/kde-extras.yml
   - from-file: zrun/remove/dnf-extras.yml
