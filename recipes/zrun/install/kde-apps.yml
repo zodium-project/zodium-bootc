@@ -10,3 +10,7 @@ modules:
           - code
           - brave-browser
           - krdc
+          - okular
+          - gwenview
+          - kalk
+          - haruna
