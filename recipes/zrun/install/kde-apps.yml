@@ -10,7 +10,4 @@ modules:
           - code
           - vivaldi
           - krdc
-          - okular
-          - gwenview
           - kalk
-          - haruna
