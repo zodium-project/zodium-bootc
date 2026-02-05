@@ -4,7 +4,7 @@ HISTFILE=~/.zsh_history
 HISTSIZE=1250
 SAVEHIST=1250
 bindkey -e
-zstyle :compinstall filename '/home/himanshu/.zshrc'
+zstyle :compinstall filename '$HOME/.zshrc'
 
 autoload -Uz compinit
 compinit
