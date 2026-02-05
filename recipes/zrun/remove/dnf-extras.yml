@@ -29,3 +29,6 @@ modules:
         - konsole
         - kfind
         - gnome-abrt
+        - kwalletmanager5
+        - firewalld
+        - firewall-config

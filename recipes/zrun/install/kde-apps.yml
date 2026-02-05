@@ -6,7 +6,7 @@ modules:
     install:
        install-weak-deps: false
        packages:
-          - ptyxis
+          - konsole
           - code
           - brave-browser
           - krdc
