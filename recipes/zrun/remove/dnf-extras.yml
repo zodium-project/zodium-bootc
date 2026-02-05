@@ -27,3 +27,5 @@ modules:
         - python3-pygdbmi
         - python3-sentry-sdk
         - konsole
+        - kfind
+        - gnome-abrt

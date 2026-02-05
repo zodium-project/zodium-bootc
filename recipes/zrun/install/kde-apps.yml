@@ -9,6 +9,4 @@ modules:
           - ptyxis
           - code
           - brave-browser
-          - kalk
           - krdc
-          - kwalletmanager
