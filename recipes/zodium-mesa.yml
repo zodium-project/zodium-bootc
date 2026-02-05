@@ -25,6 +25,7 @@ modules:
   - from-file: zrun/install/kde-theming.yml
 
   - from-file: zrun/remove/dnf-extras.yml
+  - from-file: zrum/remove/fedora-theming.yml
 
 #############################
 ### End of System Modules ###
