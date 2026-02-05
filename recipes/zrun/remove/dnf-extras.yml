@@ -32,3 +32,5 @@ modules:
         - firewalld
         - firewall-config
         - fedora-flathub-remote
+        - adwaita-mono-fonts
+        - adwaita-sans-fonts
