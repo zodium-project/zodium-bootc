@@ -8,4 +8,5 @@ modules:
        packages:
           - konsole
           - code
-          - vivaldi
+          - brave-browser
+          - brave-keyring
