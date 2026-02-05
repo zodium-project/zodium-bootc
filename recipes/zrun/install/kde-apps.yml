@@ -9,5 +9,3 @@ modules:
           - konsole
           - code
           - vivaldi
-          - krdc
-          - kalk
