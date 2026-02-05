@@ -4,6 +4,6 @@
 modules:
   - type: script
     snippets:
-      - rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedora.desktop
-      - rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoradark.desktop
-      - rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoralight.desktop
+      - "rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedora.desktop/"
+      - "rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoradark.desktop/"
+      - "rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoralight.desktop/"
