@@ -9,3 +9,21 @@ modules:
         - toolbox
         - kate-libs
         - kwrite
+        - filelight
+        - khelpcenter
+        - kinfocenter
+        - kdebugsettings
+        - plasma-discover
+        - plasma-discover-libs
+        - qt6-qtwebview
+        - plasma-discover-notifier
+        - kjournald
+        - kjournald-libs
+        - plasma-systemmonitor
+        - btop
+        - kcharselect
+        - plasma-drkonqi
+        - python3-certifi
+        - python3-pygdbmi
+        - python3-sentry-sdk
+        - konsole
