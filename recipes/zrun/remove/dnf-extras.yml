@@ -53,3 +53,5 @@ modules:
         - akonadi-server
         - fprintd-pam
         - fprintd
+        - ark
+        - ark-libs
