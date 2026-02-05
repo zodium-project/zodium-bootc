@@ -8,7 +8,7 @@ modules:
        packages:
           - konsole
           - code
-          - brave-browser
+          - vivaldi
           - krdc
           - okular
           - gwenview

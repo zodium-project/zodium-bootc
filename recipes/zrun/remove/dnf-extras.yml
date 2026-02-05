@@ -38,3 +38,4 @@ modules:
         - PackageKit-command-not-found
         - PackageKit
         - libdnf
+        - PackageKit-glib
