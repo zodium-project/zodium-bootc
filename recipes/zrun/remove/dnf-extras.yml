@@ -39,3 +39,17 @@ modules:
         - PackageKit
         - libdnf
         - PackageKit-glib
+        - kde-settings-pulseaudio
+        - xwaylandvideobridge
+        - plasma-nm-pptp
+        - plasma-nm-openswan
+        - plasma-nm-openconnect
+        - NetworkManager-libreswan
+        - NetworkManager-openconnect
+        - NetworkManager-pptp
+        - openconnect
+        - pptp
+        - akonadi-server-mysql
+        - akonadi-server
+        - fprintd-pam
+        - fprintd
