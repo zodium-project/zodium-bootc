@@ -1,0 +1,36 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    remove:
+      packages:
+        - plasma-welcome
+        - kate-libs
+        - kwrite
+        - filelight
+        - khelpcenter
+        - kinfocenter
+        - kdebugsettings
+        - plasma-discover
+        - plasma-discover-libs
+        - qt6-qtwebview
+        - plasma-discover-notifier
+        - kjournald
+        - kjournald-libs
+        - plasma-systemmonitor
+        - kcharselect
+        - plasma-drkonqi
+        - python3-certifi
+        - python3-pygdbmi
+        - python3-sentry-sdk
+        - kfind
+        - gnome-abrt
+        - kwalletmanager5
+        - kde-settings-pulseaudio
+        - xwaylandvideobridge
+        - plasma-nm-pptp
+        - plasma-nm-openswan
+        - plasma-nm-openconnect
+        - ark
+        - ark-libs

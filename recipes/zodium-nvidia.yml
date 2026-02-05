@@ -26,6 +26,7 @@ modules:
   - from-file: zrun/install/nerd-fonts.yml
   - from-file: zrun/install/zsh-settings.yml
 
+  - from-file: zrun/remove/kde-extras.yml
   - from-file: zrun/remove/dnf-extras.yml
   - from-file: zrun/remove/fedora-theming.yml
 
