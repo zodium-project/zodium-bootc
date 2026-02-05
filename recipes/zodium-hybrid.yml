@@ -37,8 +37,9 @@ modules:
 ## OS-release Module ##
   - type: os-release
     properties:
-      ID: fedora
-      NAME: zodium
+      ID: zodium
+      ID_LIKE: fedora
+      NAME: zodium linux
       PRETTY_NAME: zodium linux by zodium project (hybrid)
 
 ## initramfs module ##
