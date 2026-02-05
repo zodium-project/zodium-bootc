@@ -9,3 +9,7 @@ rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedora.desktop/
 rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoradark.desktop/
 rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoralight.desktop/
 ls
+cd /usr/share/sddm/themes
+pwd
+ls
+rm -rf /usr/share/sddm/themes/01-breeze-fedora/
