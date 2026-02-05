@@ -9,3 +9,9 @@ modules:
        - Hack
        - Mononoki
        - Iosevka
+
+  - type: dnf
+    install:
+       install-weak-deps: false
+       packages:
+          - google-noto-color-emoji-fonts
