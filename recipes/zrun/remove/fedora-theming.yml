@@ -5,3 +5,4 @@ modules:
   - type: script
     scripts:
       - remove-fedora-kde-themes.sh
+      - remove-fedora-icon-themes.sh
