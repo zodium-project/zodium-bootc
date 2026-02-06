@@ -46,3 +46,9 @@ if command -v fd >/dev/null 2>&1 &&
    [[ -z "$DISABLE_FD_ALIAS" ]]; then
   alias find='fd'
 fi
+
+# ---- KDE / Plasma tweaks ----
+# Force virtual keyboard availability in Plasma (KWin)
+if [[ -z "$DISABLE_KWIN_IM_SHOW_ALWAYS" ]]; then
+  export KWIN_IM_SHOW_ALWAYS=1
+fi
