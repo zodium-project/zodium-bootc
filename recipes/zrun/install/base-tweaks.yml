@@ -25,5 +25,3 @@ modules:
       - skew_tick=1
       - i915.enable_psr=0
       - split_lock_detect=off
-
-
