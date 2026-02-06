@@ -21,3 +21,4 @@ modules:
           - xrandr
           - xsettingsd
           - plasma-milou
+          - google-noto-color-emoji-fonts
