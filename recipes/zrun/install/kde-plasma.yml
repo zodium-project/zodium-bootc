@@ -21,3 +21,7 @@ modules:
           - xrandr
           - xsettingsd
           - plasma-milou
+
+  - type: script
+    scripts:
+       - remove-fedora-flatpak.sh
