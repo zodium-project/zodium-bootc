@@ -32,5 +32,3 @@ modules:
         - plasma-nm-pptp
         - plasma-nm-openswan
         - plasma-nm-openconnect
-        - ark
-        - ark-libs

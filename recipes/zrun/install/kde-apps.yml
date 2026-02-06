@@ -6,7 +6,15 @@ modules:
     install:
        install-weak-deps: false
        packages:
+          - dolphin
+          - ark
+          - gwenview
+          - okular
+          - spectacle
           - konsole
           - code
           - brave-browser
           - brave-keyring
+          - kalk
+          - kcolorchooser
+          - krdc
