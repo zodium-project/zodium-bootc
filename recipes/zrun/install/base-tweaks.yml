@@ -9,7 +9,6 @@ modules:
 
  - type: script
    scripts:
-       - install-flathub.sh
        - performance-tweaks.sh
 
  - type: kargs

@@ -34,3 +34,7 @@ modules:
         - plasma-nm-openconnect
         - ark
         - ark-libs
+
+  - type: script
+    scripts:
+       - install-flathub.sh
