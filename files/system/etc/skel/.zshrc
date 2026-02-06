@@ -4,10 +4,6 @@ HISTFILE=~/.zsh_history
 HISTSIZE=1250
 SAVEHIST=1250
 bindkey -e
-zstyle :compinstall filename '$HOME/.zshrc'
-
-autoload -Uz compinit
-compinit
 setopt AUTO_CD
 
 ## to override system default plugins/alias use ENV-variables ##
