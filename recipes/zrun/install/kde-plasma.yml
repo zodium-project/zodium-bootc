@@ -21,8 +21,3 @@ modules:
           - xrandr
           - xsettingsd
           - plasma-milou
-
-  - type: script
-    scripts:
-       - install-flathub.sh
-       - performance-tweaks.sh

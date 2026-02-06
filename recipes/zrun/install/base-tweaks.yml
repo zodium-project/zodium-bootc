@@ -1,0 +1,24 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+ - type: files
+   files:
+     - source: system   # copies `files/system/*` (* means everything inside it) into your image's root folder `/`
+       destination: /
+
+ - type: script
+   scripts:
+       - install-flathub.sh
+       - performance-tweaks.sh
+
+ - type: kargs
+   kargs:
+      - preempt=voluntary
+      - loglevel=3
+      - rd.udev.log_level=3
+      - nowatchdog
+      - mitigations=auto
+      - mem_sleep_default=deep
+
+
