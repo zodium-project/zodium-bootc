@@ -15,4 +15,3 @@ modules:
        install-weak-deps: false
        packages:
           - google-noto-color-emoji-fonts
-          - tela-icon-theme
