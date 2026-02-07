@@ -2,9 +2,6 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 
 modules:
- - type: script
-   snippets:
-      - "rm -rf /usr/share/wallpapers/*"
 
  - type: files
    files:

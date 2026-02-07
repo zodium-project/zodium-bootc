@@ -31,4 +31,5 @@ modules:
         - xwaylandvideobridge
         - plasma-nm-pptp
         - plasma-nm-openswan
+        - plasma-workspace-wallpapers
         - plasma-nm-openconnect
