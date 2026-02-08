@@ -33,3 +33,4 @@ modules:
         - plasma-nm-openswan
         - plasma-workspace-wallpapers
         - plasma-nm-openconnect
+        - sddm-kcm
