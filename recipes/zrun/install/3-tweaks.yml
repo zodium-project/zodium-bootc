@@ -11,3 +11,6 @@ modules:
  - type: script
    snippets:
       - "systemctl enable zodium-default-flatpak.service"
+
+   scripts:
+      - set-default-wallpapers.sh
