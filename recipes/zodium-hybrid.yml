@@ -20,9 +20,12 @@ platforms:
 modules:
 
 ## Import Modules/Scripts ##
-  - from-file: zrun/install/kde-plasma.yml
-  - from-file: zrun/install/kde-apps.yml
-  - from-file: zrun/install/tweaks.yml
+  - from-file: zrun/install/xdg-default.yml
+  - from-file: zrun/install/plasma.yml
+  - from-file: zrun/install/plasma-addons.yml
+  - from-file: zrun/install/plasma-extras.yml
+  - from-file: zrun/install/default-apps.yml
+  - from-file: zrun/install/zodium-settings.yml
 
   - from-file: zrun/remove/kde-extras.yml
   - from-file: zrun/remove/dnf-extras.yml
