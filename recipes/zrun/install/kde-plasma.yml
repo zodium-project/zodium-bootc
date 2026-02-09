@@ -8,7 +8,7 @@ modules:
       packages:
           - sddm
           - sddm-wayland-plasma
-          - sddkm-breeze
+          - sddm-breeze
           - kde-settings-sddm
           - plasma-nm
           - plasma-nm-openvpn
@@ -21,7 +21,7 @@ modules:
           - plasma-workspace
           - plasma-desktop
           - plasma-integration
-          - plasma-activites
+          - plasma-activities
           - plasma-systemmonitor
           - plasma-systemsettings
           - kwayland-integration
