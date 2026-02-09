@@ -26,15 +26,28 @@ modules:
           - plasma-systemsettings
           - kwayland-integration
           - kio-admin
+          - kdegraphics-thumbnailers
+          - kdenetwork-filesharing
+          - kdeplasma-addons
+          - kdnssd
+          - kf6-baloo-file
+          - ksshaskpass
+          - ldns
+          - nss-tools
+          - pam-kwallet
+          - systemd-oomd-defaults
+          - kunifiedpush
           - kio-gdrive
           - kio-fuse
           - polkit-kde
           - kde-settings-plasma
           - bluedevil
+          - flatpak-kcm
           - powerdevil
           - kde-gtk-config
           - breeze-gtk-gtk4
           - breeze-gtk-gtk3
+          - ffmpegthumbs
           - kscreen
           - kscreenlocker
           - plasma-browser-integration
