@@ -16,8 +16,7 @@ modules:
           - code
           - kalk
           - kcolorchooser
-          - krdc
           - kde-partitionmanager
-          - krdp
-          - krfb
           - kde-connect
+          - plasma-systemmonitor
+          - plasma-systemsettings

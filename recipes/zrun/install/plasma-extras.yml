@@ -11,8 +11,6 @@ modules:
           - kio-gdrive
           - kio-fuse
           - plasma-thunderbolt
-          - plasma-systemmonitor
-          - plasma-systemsettings
           - plasma-print-manager
           - kio-admin
           - colord-kde
@@ -23,3 +21,6 @@ modules:
           - ldns
           - nss-tools
           - glibc-all-langpacks
+          - krdp
+          - krfb
+          - krdc
