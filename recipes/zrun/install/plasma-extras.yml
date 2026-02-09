@@ -21,6 +21,5 @@ modules:
           - ldns
           - nss-tools
           - glibc-all-langpacks
-          - krdp
           - krfb
           - krdc
