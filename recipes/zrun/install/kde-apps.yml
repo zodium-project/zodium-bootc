@@ -14,8 +14,6 @@ modules:
           - spectacle
           - konsole
           - code
-          - brave-browser
-          - brave-keyring
           - kalk
           - kcolorchooser
           - krdc
