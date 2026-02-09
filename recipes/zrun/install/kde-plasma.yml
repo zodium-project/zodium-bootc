@@ -34,11 +34,15 @@ modules:
           - kdeplasma-addons
           - glibc-all-langpacks
           - kdnssd
+          - colord-kde
           - kf6-baloo-file
+          - firewall-config
+          - pinentry-qt
           - ksshaskpass
           - ldns
           - nss-tools
           - pam-kwallet
+          - signon-kwallet-extension
           - kunifiedpush
           - kio-gdrive
           - kio-fuse
