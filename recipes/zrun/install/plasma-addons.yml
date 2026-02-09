@@ -1,0 +1,27 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    repos:
+      copr:
+        - matinlotfali/KDE-Rounded-Corners
+    install:
+      install-weak-deps: false
+      packages:
+          - kwin-effect-roundcorners
+          - plasma-browser-integration
+          - kde-gtk-config
+          - breeze-gtk-gtk4
+          - breeze-gtk-gtk3
+          - kdenetwork-filesharing
+          - kdeplasma-addons
+          - plasma-nm-openvpn
+          - plasma-nm-vpnc
+          - plasma-vault
+          - plasma-disks
+          - pinentry-qt
+          - pam-kwallet
+          - signon-kwallet-extension
+          - polkit-kde
+          - kdegraphics-thumbnailers

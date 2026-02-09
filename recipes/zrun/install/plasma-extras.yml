@@ -1,0 +1,25 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    install:
+      install-weak-deps: false
+      packages:
+          - plasma-milou
+          - google-noto-color-emoji-fonts
+          - kio-gdrive
+          - kio-fuse
+          - plasma-thunderbolt
+          - plasma-systemmonitor
+          - plasma-systemsettings
+          - plasma-print-manager
+          - kio-admin
+          - colord-kde
+          - kf6-baloo-file
+          - firewall-config
+          - kdnssd
+          - ksshaskpass
+          - ldns
+          - nss-tools
+          - glibc-all-langpacks

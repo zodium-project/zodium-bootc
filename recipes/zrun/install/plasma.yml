@@ -1,0 +1,26 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+  - type: dnf
+    install:
+      install-weak-deps: false
+      packages:
+          - sddm
+          - sddm-wayland-plasma
+          - sddm-breeze
+          - kde-settings-sddm
+          - plasma-nm
+          - plasma-pa
+          - plasma-workspace
+          - plasma-desktop
+          - plasma-integration
+          - plasma-activities
+          - kwayland-integration
+          - kunifiedpush
+          - kde-settings-plasma
+          - bluedevil
+          - powerdevil
+          - ffmpegthumbs
+          - kscreen
+          - kscreenlocker
