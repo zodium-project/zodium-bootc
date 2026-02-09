@@ -39,7 +39,6 @@ modules:
           - ldns
           - nss-tools
           - pam-kwallet
-          - systemd-oomd-defaults
           - kunifiedpush
           - kio-gdrive
           - kio-fuse
