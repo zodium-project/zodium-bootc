@@ -32,6 +32,7 @@ modules:
           - kdegraphics-thumbnailers
           - kdenetwork-filesharing
           - kdeplasma-addons
+          - glibc-all-langpacks
           - kdnssd
           - kf6-baloo-file
           - ksshaskpass
