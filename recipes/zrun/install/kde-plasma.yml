@@ -3,6 +3,9 @@
 
 modules:
   - type: dnf
+    repos:
+      copr:
+        - matinlotfali/KDE-Rounded-Corners
     install:
       install-weak-deps: false
       packages:
@@ -56,17 +59,6 @@ modules:
           - xdg-desktop-portal
           - xdg-desktop-portal-kde
           - xdg-desktop-portal-gtk
-
-  - type: dnf
-    repos:
-      copr:
-        - matinlotfali/KDE-Rounded-Corners
-    install:
-       install-weak-deps: false
-       packages:
-          - kwin-effect-roundcorners
-          - dolphin-plugins
-          #- xrandr
-          #- xsettingsd
           - plasma-milou
+          - kwin-effect-roundcorners
           - google-noto-color-emoji-fonts
