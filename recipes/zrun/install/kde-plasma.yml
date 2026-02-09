@@ -3,12 +3,47 @@
 
 modules:
   - type: dnf
-    group-install:
-      with-optional: false
+    install:
       install-weak-deps: false
       packages:
-          - kde-desktop
-          
+          - sddm
+          - sddm-wayland-plasma
+          - sddkm-breeze
+          - kde-settings-sddm
+          - plasma-nm
+          - plasma-nm-openvpn
+          - plasma-nm-vpnc
+          - plasma-pa
+          - plasma-vault
+          - plasma-thunderbolt
+          - plasma-disks
+          - plasma-print-manager
+          - plasma-workspace
+          - plasma-desktop
+          - plasma-integration
+          - plasma-activites
+          - plasma-systemmonitor
+          - plasma-systemsettings
+          - kwayland-integration
+          - kio-admin
+          - kio-gdrive
+          - kio-fuse
+          - polkit-kde
+          - kde-settings-plasma
+          - bluedevil
+          - powerdevil
+          - kde-gtk-config
+          - breeze-gtk-gtk4
+          - breeze-gtk-gtk3
+          - kscreen
+          - kscreenlocker
+          - plasma-browser-integration
+          - xdg-utils
+          - xdg-user-dirs
+          - xdg-desktop-portal
+          - xdg-desktop-portal-kde
+          - xdg-desktop-portal-gtk
+
   - type: dnf
     repos:
       copr:
@@ -18,7 +53,7 @@ modules:
        packages:
           - kwin-effect-roundcorners
           - dolphin-plugins
-          - xrandr
-          - xsettingsd
+          #- xrandr
+          #- xsettingsd
           - plasma-milou
           - google-noto-color-emoji-fonts

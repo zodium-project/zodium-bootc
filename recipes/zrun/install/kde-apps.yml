@@ -18,3 +18,7 @@ modules:
           - kalk
           - kcolorchooser
           - krdc
+          - kde-partitionmanager
+          - krdp
+          - krfb
+          - kde-connect
