@@ -13,3 +13,11 @@ cd /usr/share/sddm/themes
 pwd
 ls
 rm -rf /usr/share/sddm/themes/01-breeze-fedora/
+ls
+cd /usr/share/wallpapers/
+ls
+pwd
+rm -rf /usr/share/wallpapers/F*
+rm -rf /usr/share/wallpapers/D*
+ls
+pwd
