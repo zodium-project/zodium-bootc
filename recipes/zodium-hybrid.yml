@@ -42,8 +42,8 @@ modules:
     properties:
       ID: zodium
       ID_LIKE: fedora
-      NAME: zodium linux
-      PRETTY_NAME: zodium linux by zodium project (hybrid)
+      NAME: zodium-linux
+      PRETTY_NAME: Zodium Linux
 
 ## initramfs module ##
   - type: initramfs
