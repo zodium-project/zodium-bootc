@@ -7,14 +7,12 @@ modules:
       install-weak-deps: false
       packages:
           - plasma-milou
-          - google-noto-color-emoji-fonts
           - kio-gdrive
           - kio-fuse
-          - plasma-print-manager
-          - kio-admin
-          - colord-kde
-          - kdnssd
-          - ksshaskpass
-          - ldns
-          - nss-tools
-          - glibc-all-langpacks
+          - plasma-thunderbolt
+          - plasma-drkonqi
+          - plasma-firewall-firewalld
+          - plasma-firewall
+          - kf6-baloo-file
+          - krfb
+          - krdc
