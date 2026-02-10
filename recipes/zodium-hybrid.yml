@@ -44,6 +44,7 @@ modules:
       ID_LIKE: fedora
       NAME: zodium-linux
       PRETTY_NAME: Zodium Linux
+      DEFAULT_HOSTNAME: zodium
 
 ## initramfs module ##
   - type: initramfs
