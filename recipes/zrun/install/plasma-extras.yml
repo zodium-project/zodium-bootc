@@ -11,6 +11,7 @@ modules:
           - kio-gdrive
           - kio-fuse
           - plasma-thunderbolt
+          - plasma-wayland-protocols
           - plasma-print-manager
           - kio-admin
           - colord-kde
