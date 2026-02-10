@@ -13,10 +13,11 @@ modules:
           - plasma-thunderbolt
           - plasma-drkonqi
           - plasma-print-manager
+          - plasma-firewall-firewalld
+          - plasma-firewall
           - kio-admin
           - colord-kde
           - kf6-baloo-file
-          - firewall-config
           - kdnssd
           - ksshaskpass
           - ldns
