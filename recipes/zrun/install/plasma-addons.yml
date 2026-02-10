@@ -17,7 +17,6 @@ modules:
           - kdenetwork-filesharing
           - kdeplasma-addons
           - plasma-nm-openvpn
-          - plasma-nm-vpnc
           - plasma-vault
           - plasma-disks
           - pinentry-qt
