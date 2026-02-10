@@ -9,7 +9,12 @@ modules:
           - plasma-milou
           - kio-gdrive
           - kio-fuse
+          - plasma-browser-integration
+          - plasma-wayland-protocols
           - plasma-thunderbolt
+          - kde-gtk-config
+          - breeze-gtk-gtk4
+          - breeze-gtk-gtk3
           - plasma-drkonqi
           - plasma-firewall-firewalld
           - plasma-firewall

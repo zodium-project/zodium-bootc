@@ -24,6 +24,7 @@ modules:
   - from-file: zrun/install/plasma.yml
   - from-file: zrun/install/plasma-addons.yml
   - from-file: zrun/install/plasma-extras.yml
+  - from-file: zrun/install/plasma-optionals.yml
   - from-file: zrun/install/sddm.yml
   - from-file: zrun/install/default-apps.yml
   - from-file: zrun/install/zodium-settings.yml

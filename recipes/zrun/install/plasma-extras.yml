@@ -6,10 +6,7 @@ modules:
     install:
       install-weak-deps: false
       packages:
-          - plasma-milou
           - google-noto-color-emoji-fonts
-          - kio-gdrive
-          - kio-fuse
           - plasma-print-manager
           - kio-admin
           - colord-kde
