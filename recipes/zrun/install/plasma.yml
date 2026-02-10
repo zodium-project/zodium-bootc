@@ -6,10 +6,6 @@ modules:
     install:
       install-weak-deps: false
       packages:
-          - sddm
-          - sddm-wayland-plasma
-          - sddm-breeze
-          - kde-settings-sddm
           - plasma-nm
           - plasma-pa
           - plasma-workspace
