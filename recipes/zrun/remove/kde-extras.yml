@@ -20,10 +20,7 @@ modules:
         - kjournald-libs
         - plasma-systemmonitor
         - kcharselect
-        - plasma-drkonqi
-        - python3-certifi
-        - python3-pygdbmi
-        - python3-sentry-sdk
+        #- plasma-drkonqi
         - kfind
         - gnome-abrt
         - kwalletmanager5
