@@ -20,17 +20,17 @@ platforms:
 modules:
 
 ## Import Modules/Scripts ##
-  - from-file: zrun/install/xdg-default.yml
-  - from-file: zrun/install/plasma.yml
-  - from-file: zrun/install/plasma-addons.yml
-  - from-file: zrun/install/plasma-extras.yml
-  - from-file: zrun/install/plasma-optionals.yml
+  - from-file: zrun/install/xdg-portals.yml
+  - from-file: zrun/install/kde-plasma.yml
+  - from-file: zrun/install/kde-plasma-addons.yml
+  - from-file: zrun/install/kde-plasma-extras.yml
+  - from-file: zrun/install/kde-plasma-optionals.yml
   - from-file: zrun/install/sddm.yml
-  - from-file: zrun/install/default-apps.yml
-  - from-file: zrun/install/zodium-settings.yml
+  - from-file: zrun/install/kde-apps.yml
+  - from-file: zrun/install/settings-tweaks.yml
   
-  - from-file: zrun/remove/kde-extras.yml
-  - from-file: zrun/remove/dnf-extras.yml
+  - from-file: zrun/remove/kde-plasma-depricated.yml
+  - from-file: zrun/remove/fedora-depricated.yml
 
 #############################
 ### End of System Modules ###

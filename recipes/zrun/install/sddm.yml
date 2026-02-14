@@ -2,12 +2,6 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 
 modules:
-
-  - type: files
-    files:
-      - source: sddm-config
-        destination: /
-
   - type: dnf
     install:
       install-weak-deps: false
@@ -16,3 +10,8 @@ modules:
           - sddm-wayland-plasma
           - sddm-breeze
           - kde-settings-sddm
+
+  - type: files
+    files:
+      - source: sddm-config
+        destination: /
