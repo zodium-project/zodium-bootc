@@ -19,4 +19,4 @@ modules:
       - "systemctl enable zodium-default-flatpak.service"
 
    scripts:
-      - set-default-wallpapers.sh
+      - set-kde-wallpapers.sh

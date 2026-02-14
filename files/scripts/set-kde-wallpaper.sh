@@ -7,7 +7,7 @@ for lf in \
   org.kde.breezedark.desktop \
   org.kde.breezetwilight.desktop
 do
-  sudo sed -i '/^\[Wallpaper\]/,/^\[/{s/^Image=.*/Image=Zodium/}' \
+  sudo sed -i '/^\[Wallpaper\]/,/^\[/{s/^Image=.*/Image=Aura/}' \
   /usr/share/plasma/look-and-feel/$lf/contents/defaults
 done
 
