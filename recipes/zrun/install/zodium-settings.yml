@@ -5,7 +5,13 @@ modules:
 
  - type: files
    files:
-     - source: system
+     - source: base-files
+       destination: /
+
+     - source: kde-settings
+       destination: /
+
+     - source: sddm-config
        destination: /
 
  - type: script
