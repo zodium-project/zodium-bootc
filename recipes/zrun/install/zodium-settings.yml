@@ -17,3 +17,4 @@ modules:
 
    scripts:
       - set-kde-wallpapers.sh
+      - purge-fedora-branding.sh
