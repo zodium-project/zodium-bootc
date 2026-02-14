@@ -7,9 +7,6 @@ modules:
       packages:
         - toolbox
         - btop
-        #- python3-certifi
-        #- python3-pygdbmi
-        #- python3-sentry-sdk
         - gnome-abrt
         - fedora-flathub-remote
         - adwaita-mono-fonts

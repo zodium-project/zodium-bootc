@@ -20,7 +20,6 @@ modules:
         - kjournald-libs
         - plasma-systemmonitor
         - kcharselect
-        #- plasma-drkonqi
         - kfind
         - gnome-abrt
         - kwalletmanager5
@@ -30,4 +29,3 @@ modules:
         - plasma-nm-openswan
         - plasma-workspace-wallpapers
         - plasma-nm-openconnect
-        #- sddm-kcm
