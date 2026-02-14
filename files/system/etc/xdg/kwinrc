@@ -1,3 +1,10 @@
+[Effect-blur]
+BlurStrength=6
+NoiseStrength=0
+
+[Plugins]
+blurEnabled=true
+
 [Round-Corners]
 ActiveShadowAlpha=100
 DisableOutlineFullScreen=false
