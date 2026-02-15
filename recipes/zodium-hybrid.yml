@@ -16,7 +16,6 @@ platforms:
 #################
 modules:
 ## Import Modules/Scripts ##
-  - from-file: zrun/install/xdg-portals.yml
   - from-file: zrun/install/kde-plasma.yml
   - from-file: zrun/install/kde-plasma-addons.yml
   - from-file: zrun/install/kde-plasma-extras.yml
