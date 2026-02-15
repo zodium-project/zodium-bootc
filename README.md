@@ -1,1 +1,1 @@
-zodium-bootc images are still in beta , dont use them rn.
+Zodium Linux ( release 1 scheduled for 28/2/2026)
