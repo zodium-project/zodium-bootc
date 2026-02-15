@@ -2,5 +2,5 @@
 set -euo pipefail
 set -x
 
-sudo dnf copr enable matinlotfali/KDE-Rounded-Corners
-sudo dnf install kwin-effect-roundcorners
+sudo dnf5 copr enable matinlotfali/KDE-Rounded-Corners
+sudo dnf5 --setopt=install_weak_deps=False install kwin-effect-roundcorners
