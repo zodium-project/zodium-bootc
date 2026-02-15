@@ -1,1 +1,3 @@
 Zodium Linux ( release 1 scheduled for 28/2/2026)
+
+to-do : WIP
