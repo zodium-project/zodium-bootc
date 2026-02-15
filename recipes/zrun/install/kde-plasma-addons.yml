@@ -3,13 +3,9 @@
 
 modules:
   - type: dnf
-    repos:
-      copr:
-        - matinlotfali/KDE-Rounded-Corners
     install:
       install-weak-deps: false
       packages:
-          - kwin-effect-roundcorners
           - kdenetwork-filesharing
           - kdeplasma-addons
           - plasma-nm-openvpn

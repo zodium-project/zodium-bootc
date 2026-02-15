@@ -17,3 +17,7 @@ modules:
           - glibc-all-langpacks
           - sddm-kcm
           - flatpak-kcm
+
+  - type: script
+    scripts:
+      - kde-plasma-rounded-corners-install.sh
