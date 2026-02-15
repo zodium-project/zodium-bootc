@@ -3,9 +3,13 @@
 
 modules:
   - type: dnf
+    repos:
+      copr:
+        - matinlotfali/KDE-Rounded-Corners
     install:
       install-weak-deps: false
       packages:
+          - kwin-effect-roundcorners
           - google-noto-color-emoji-fonts
           - plasma-print-manager
           - kio-admin
@@ -17,7 +21,3 @@ modules:
           - glibc-all-langpacks
           - sddm-kcm
           - flatpak-kcm
-
-  - type: script
-    scripts:
-      - kde-plasma-rounded-corners-install.sh
