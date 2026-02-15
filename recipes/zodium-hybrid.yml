@@ -5,20 +5,16 @@
 ####################
 #### Image Info ####
 ####################
-
 name: zodium-hybrid
 description: zodium image for AMD/Intel & NVIDIA GPUs
-
 base-image: ghcr.io/zodium-project/zcore-hybrid
 image-version: latest
 platforms:
   - linux/amd64
-
 #################
 #### MODULES ####
 #################
 modules:
-
 ## Import Modules/Scripts ##
   - from-file: zrun/install/xdg-portals.yml
   - from-file: zrun/install/kde-plasma.yml
@@ -31,11 +27,9 @@ modules:
 
   - from-file: zrun/remove/kde-plasma-depricated.yml
   - from-file: zrun/remove/fedora-depricated.yml
-
 #############################
 ### End of System Modules ###
 #############################
-
 ## OS-release Module ##
   - type: os-release
     properties:
@@ -44,13 +38,10 @@ modules:
       NAME: zodium-linux
       PRETTY_NAME: Zodium Linux
       DEFAULT_HOSTNAME: zodium
-
 ## initramfs module ##
   - type: initramfs
-
 ## Signing Module ##
   - type: signing
-  
 ###################
 ### END of File ###
 ###################
