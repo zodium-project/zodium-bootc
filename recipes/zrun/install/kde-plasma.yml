@@ -6,6 +6,11 @@ modules:
     install:
       install-weak-deps: false
       packages:
+          - xdg-utils
+          - xdg-user-dirs
+          - xdg-desktop-portal
+          - xdg-desktop-portal-kde
+          - xdg-desktop-portal-gtk
           - plasma-nm
           - plasma-pa
           - plasma-workspace
