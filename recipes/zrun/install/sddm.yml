@@ -8,3 +8,5 @@ modules:
       packages:
         - plasma-login-manager
         - kcm-plasmalogin
+        - plasma-keyboard
+        - kcm-plasma-keyboard
