@@ -7,3 +7,4 @@ to-do : WIP
 4. better/custom plymouth theme.
 5. better + more default apps.
 6. use plasma-setup instead of anaconda-kinoite
+7. change/fix configs accoring to new update.
