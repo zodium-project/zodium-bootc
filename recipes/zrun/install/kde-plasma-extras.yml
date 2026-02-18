@@ -19,5 +19,4 @@ modules:
           - ldns
           - nss-tools
           - glibc-all-langpacks
-          - sddm-kcm
           - flatpak-kcm
