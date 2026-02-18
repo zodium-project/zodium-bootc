@@ -136,7 +136,9 @@ Name=zodium
 shadeSortColumn=true
 
 [KDE]
+Contrast=1
 contrast=0
+frameContrast=0.1
 
 [WM]
 activeBackground=39,39,39
