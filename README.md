@@ -6,3 +6,4 @@ to-do : WIP
 3. replace sddm. ( replacing with plasma-login-manager)
 4. better/custom plymouth theme.
 5. better + more default apps.
+6. use plasma-setup instead of anaconda-kinoite
