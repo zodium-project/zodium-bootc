@@ -6,12 +6,5 @@ modules:
     install:
       install-weak-deps: false
       packages:
-          - sddm
-          - sddm-wayland-plasma
-          - sddm-breeze
-          - kde-settings-sddm
-
-  - type: files
-    files:
-      - source: sddm-config
-        destination: /
+        - plasma-login-manager
+        - kcm-plasmalogin
