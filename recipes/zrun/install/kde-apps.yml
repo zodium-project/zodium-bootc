@@ -16,3 +16,5 @@ modules:
           - kde-connect
           - plasma-systemsettings
           - plasma-systemmonitor
+          - plasma-discover-flatpak
+          - plasma-discover
