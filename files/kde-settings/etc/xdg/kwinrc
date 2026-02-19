@@ -1,6 +1,6 @@
 [Effect-blur]
 BlurStrength=6
-NoiseStrength=10
+NoiseStrength=5
 Saturation=500
 
 [Plugins]
