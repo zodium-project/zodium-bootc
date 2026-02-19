@@ -23,6 +23,7 @@ modules:
   - from-file: zrun/install/login-manager.yml
   - from-file: zrun/install/kde-apps.yml
   - from-file: zrun/install/settings-tweaks.yml
+  - from-file: zrun/install/plasma-setup.yml
 
   - from-file: zrun/remove/kde-plasma-depricated.yml
   - from-file: zrun/remove/fedora-depricated.yml
