@@ -4,3 +4,6 @@ LookAndFeelPackage=
 [General]
 ColorScheme=Zodium
 accentColorFromWallpaper=true
+
+[Icons]
+Theme=Breeze Chameleon Dark 
