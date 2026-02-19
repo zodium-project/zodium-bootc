@@ -13,4 +13,4 @@
 # Example: UserGroups=wheel,lp,kvm
 #
 # NOTE: Leaving this key empty results in the hard-coded default of "wheel".
-UserGroups=wheel,gamemode
+UserGroups=wheel,gamemode,kvm
