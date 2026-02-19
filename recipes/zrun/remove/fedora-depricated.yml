@@ -25,3 +25,4 @@ modules:
         - akonadi-server
         - fprintd-pam
         - fprintd
+        - dnf5-plugins

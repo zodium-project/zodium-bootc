@@ -25,6 +25,7 @@ modules:
 
   - from-file: zrun/remove/kde-plasma-depricated.yml
   - from-file: zrun/remove/fedora-depricated.yml
+  - from-file: zrun/remove/fedora-cache-oprhans.yml
 #############################
 ### End of System Modules ###
 #############################
