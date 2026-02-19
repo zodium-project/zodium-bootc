@@ -9,3 +9,4 @@ to-do : WIP
 6. use plasma-setup instead of anaconda-kinoite
 7. change/fix configs accoring to new update.
 8. make new look & feel instead of patching breeze & remove breeze-twilight
+9. switch from gradients to anime style wallpapers.
