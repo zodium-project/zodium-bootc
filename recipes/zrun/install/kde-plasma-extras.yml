@@ -20,3 +20,5 @@ modules:
           - nss-tools
           - glibc-all-langpacks
           - flatpak-kcm
+          - kcm-plasma-keyboard
+          - kcm-plasmalogin

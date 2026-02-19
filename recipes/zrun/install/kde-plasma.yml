@@ -26,3 +26,5 @@ modules:
           - kscreen
           - kscreenlocker
           - plasma-setup
+          - plasma-login-manager
+          - plasma-keyboard

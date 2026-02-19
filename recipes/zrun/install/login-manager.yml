@@ -6,7 +6,3 @@ modules:
     install:
       install-weak-deps: false
       packages:
-        - plasma-login-manager
-        - kcm-plasmalogin
-        - plasma-keyboard
-        - kcm-plasma-keyboard
