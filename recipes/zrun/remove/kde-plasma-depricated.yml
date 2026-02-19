@@ -18,7 +18,6 @@ modules:
         - plasma-discover-notifier
         - kjournald
         - kjournald-libs
-        - plasma-systemmonitor
         - kcharselect
         - kfind
         - gnome-abrt
