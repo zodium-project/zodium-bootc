@@ -6,7 +6,7 @@ Font=FiraCode Nerd Font Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 Command=/bin/zsh
 Name=Zodium (Nerd)
 Parent=FALLBACK/
-TerminalColumns=75
+TerminalColumns=80
 TerminalRows=25
 
 [Scrolling]

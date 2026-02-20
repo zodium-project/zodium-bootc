@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 set -euo pipefail
-set -x
 
 rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedora.desktop/
 rm -rf /usr/share/plasma/look-and-feel/org.fedoraproject.fedoradark.desktop/
