@@ -10,3 +10,4 @@ to-do : WIP
 7. change/fix configs accoring to new update.
 8. make new look & feel instead of patching breeze & remove breeze-twilight
 9. switch from gradients to anime style wallpapers.
+10. use better pager widget
