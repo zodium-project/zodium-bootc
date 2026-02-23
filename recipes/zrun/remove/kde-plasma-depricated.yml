@@ -24,3 +24,4 @@ modules:
         - plasma-nm-openswan
         - plasma-workspace-wallpapers
         - plasma-nm-openconnect
+        - plasma-drkonqi
