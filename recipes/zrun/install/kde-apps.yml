@@ -15,6 +15,7 @@ modules:
           - kalk
           - code
           - elisa
+          - celluloid
           - kde-partitionmanager
           - kde-connect
           - plasma-systemsettings
