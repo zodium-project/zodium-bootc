@@ -15,7 +15,7 @@ modules:
           - kalk
           - code
           - elisa
-          - clapper
+          - haruna
           - kde-partitionmanager
           - kde-connect
           - plasma-systemsettings
