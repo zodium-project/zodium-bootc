@@ -17,6 +17,5 @@ modules:
       - "systemctl enable plasmalogin.service"
 
    scripts:
-      - set-kde-wallpapers.sh
       - remove-fedora-branding.sh
       - zodium-breeze-icons-install.sh
