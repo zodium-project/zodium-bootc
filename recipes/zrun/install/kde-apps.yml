@@ -22,3 +22,4 @@ modules:
           - plasma-systemmonitor
           - plasma-discover-flatpak
           - plasma-discover
+          - kinfocenter
