@@ -8,7 +8,7 @@
             }
         ],
         "Category": "",
-        "Description": "KDE dark theme for zodium linux",
+        "Description": "KDE dark look-and-feel for zodium linux",
         "Id": "org.zodium.dark.desktop",
         "License": "GPLv2+",
         "Name": "Zodium Dark",
