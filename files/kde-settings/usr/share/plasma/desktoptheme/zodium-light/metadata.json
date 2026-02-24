@@ -3,7 +3,7 @@
         "Authors": [
             {
                 "Email": "dev.zodium.project@gmail.com",
-                "Name": "KDE Visual Design Group"
+                "Name": "Zodium Project"
             }
         ],
         "Category": "",
@@ -11,7 +11,7 @@
         "EnabledByDefault": true,
         "Id": "zodium",
         "License": "LGPL",
-        "Name": "Breeze Light",
+        "Name": "Zodium Light",
         "Version": "1.0.0",
         "Website": "https://github.com/zodium-project"
     },
