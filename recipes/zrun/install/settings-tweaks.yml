@@ -11,9 +11,6 @@ modules:
      - source: kde-settings
        destination: /
 
-     - source: breeze-theme-patches
-       destination: /
-
  - type: script
    snippets:
       - "systemctl enable plasma-setup.service"
