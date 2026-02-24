@@ -8,7 +8,7 @@
             }
         ],
         "Category": "",
-        "Description": "KDE light theme for zodium linux",
+        "Description": "KDE light look-and-feel for zodium linux",
         "Id": "org.zodium.light.desktop",
         "License": "GPLv2+",
         "Name": "Zodium Light",
