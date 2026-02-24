@@ -1,7 +1,7 @@
 [Appearance]
 ColorScheme=DarkPastels
 Font=Hack Nerd Font Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-UseFontBrailleChararacters=true
+UseFontBrailleChararacters=false
 
 [General]
 Command=/bin/zsh
