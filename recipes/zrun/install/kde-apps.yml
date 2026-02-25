@@ -20,6 +20,9 @@ modules:
           - kde-connect
           - plasma-systemsettings
           - plasma-systemmonitor
+          - plasma-discover-kns
+          - plasma-discover-notifier
+          - plasma-discover-rpm-ostree
           - plasma-discover-flatpak
           - plasma-discover
           - kinfocenter
