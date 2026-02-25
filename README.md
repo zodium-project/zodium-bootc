@@ -8,7 +8,7 @@ TO-DO ;
 5. better+more wallpapers & extend images in current wallpapers ( more resolutions )
 6. remove breeze-twilight look-and-feel ? or add zodium-twilight look-and-feel ?
 7. add update-system.desktop
-8. add zbrew.desktop ( cli to browser homebrew )
+8. add bold-brew.desktop ( cli to browser homebrew )
 9. change default plasma-panel + customize it ?
 10. add a dock+panel look ? make it default ?
 11. add custom splash screen ( patch the breeze one & ship )
