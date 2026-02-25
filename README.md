@@ -13,3 +13,5 @@ TO-DO ;
 10. add a dock+panel look ? make it default ?
 11. add custom splash screen ( patch the breeze one & ship )
 12. add a initial-setup/welcome app ? tauri ? 
+
+Current Release : Snapshot 7 ( pre-beta/alpha quality )
