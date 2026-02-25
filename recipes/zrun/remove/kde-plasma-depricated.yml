@@ -10,7 +10,6 @@ modules:
         - kwrite
         - filelight
         - khelpcenter
-        - kinfocenter
         - kdebugsettings
         - kjournald
         - kjournald-libs
