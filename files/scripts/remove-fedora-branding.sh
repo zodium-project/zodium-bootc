@@ -9,7 +9,7 @@ rm -rf /usr/share/wallpapers/D*
 rm -rf /usr/share/icons/oxygen/
 rm -rf /usr/share/icons/Bluecurve/
 rm -rf /usr/share/icons/locolor/
-rm -rf /usr/share/icons/AdwaitaLegacy/
+#rm -rf /usr/share/icons/AdwaitaLegacy/
 rm -rf /usr/share/icons/hicolor/16x16/apps/fedora-logo-icon.png
 rm -rf /usr/share/icons/hicolor/22x22/apps/fedora-logo-icon.png
 rm -rf /usr/share/icons/hicolor/24x24/apps/fedora-logo-icon.png

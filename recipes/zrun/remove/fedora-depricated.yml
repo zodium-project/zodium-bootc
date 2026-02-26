@@ -9,8 +9,6 @@ modules:
         - btop
         - gnome-abrt
         - fedora-flathub-remote
-        - adwaita-mono-fonts
-        - adwaita-sans-fonts
         - appstream-data
         - PackageKit-command-not-found
         - PackageKit
