@@ -14,5 +14,6 @@ TO-DO ;
 11. add custom splash screen ( patch the breeze one & ship )
 12. add a initial-setup/welcome app ? tauri ? 
 13. make a new branch ( unstable & rename current one to stable)
+14. add v4l2loopback (akmod)
 
 Current Release : Snapshot 7 ( pre-beta/alpha quality )
