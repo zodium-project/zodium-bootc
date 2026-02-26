@@ -3,10 +3,6 @@
 
 modules:
   - type: dnf
-    remove:
-       - glibc-all-langpacks
-       - glibc-minimal-langpack
-
     install:
       install-weak-deps: false
       packages:
