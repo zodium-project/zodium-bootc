@@ -20,3 +20,4 @@ modules:
           - kf6-baloo-file
           - krfb
           - krdc
+          - adw-gtk3-theme
