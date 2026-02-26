@@ -10,7 +10,6 @@ modules:
       install-weak-deps: false
       packages:
           - kwin-effect-roundcorners
-          - google-noto-color-emoji-fonts
           - plasma-print-manager
           - kio-admin
           - colord-kde
