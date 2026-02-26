@@ -16,6 +16,7 @@ platforms:
 #################
 modules:
 ## Import Modules/Scripts ##
+  - from-file: zrun/install/pre-setup-upgrade.yml
   - from-file: zrun/install/kde-plasma.yml
   - from-file: zrun/install/kde-plasma-addons.yml
   - from-file: zrun/install/kde-plasma-extras.yml
@@ -26,6 +27,7 @@ modules:
   - from-file: zrun/remove/kde-plasma-depricated.yml
   - from-file: zrun/remove/fedora-depricated.yml
   - from-file: zrun/remove/fedora-cache-oprhans.yml
+  - from-file: zrun/tweak/post-setup-cleanup.yml
 #############################
 ### End of System Modules ###
 #############################
