@@ -23,6 +23,7 @@ modules:
   - from-file: zrun/install/kde-plasma-optionals.yml
   - from-file: zrun/install/kde-apps.yml
   - from-file: zrun/install/settings-tweaks.yml
+  - from-file: zrun/install/language-input.yml
 
   - from-file: zrun/remove/kde-plasma-depricated.yml
   - from-file: zrun/remove/fedora-depricated.yml
