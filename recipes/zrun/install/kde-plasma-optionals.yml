@@ -21,3 +21,4 @@ modules:
           - krfb
           - krdc
           - adw-gtk3-theme
+          - adwaita-fonts-all
