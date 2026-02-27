@@ -21,4 +21,5 @@ library=org.kde.breeze
 theme=Breeze
 
 [KSplash]
-Theme=org.kde.Breeze
+Engine=none
+Theme=None
