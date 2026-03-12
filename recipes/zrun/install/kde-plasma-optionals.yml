@@ -18,6 +18,7 @@ modules:
           - plasma-firewall-firewalld
           - plasma-firewall
           - kf6-baloo-file
+          - qt6-qtimageformats
           - krfb
           - krdc
           - adw-gtk3-theme

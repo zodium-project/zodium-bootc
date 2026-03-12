@@ -18,4 +18,3 @@ modules:
 
    scripts:
       - remove-fedora-branding.sh
-      - zodium-breeze-icons-install.sh

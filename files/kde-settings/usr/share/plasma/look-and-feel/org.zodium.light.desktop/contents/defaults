@@ -5,7 +5,7 @@ widgetStyle=Breeze
 ColorScheme=BreezeLight
 
 [kdeglobals][Icons]
-Theme=zodium-light
+Theme=breeze
 
 [plasmarc][Theme]
 name=default
