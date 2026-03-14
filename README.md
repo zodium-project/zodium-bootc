@@ -1,4 +1,4 @@
-Zodium Linux ( release 1 scheduled for 17/3/2026)
+Zodium Linux ( release 1 scheduled for 15/7/2026)
 
 TO-DO ;
 1. Extend Images ( old nvidia , framework , razer , xbox+sony controller ...)
