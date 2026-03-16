@@ -22,8 +22,9 @@ jobs:
       matrix:
         recipe:
           - zodium-mesa.yml
-          - zodium-nvidia.yml
           - zodium-hybrid.yml
+          - zodium-nvidia.yml
+          - zodium-nvidia-lts.yml
 
     steps:
       - name: Build Zodium Image
