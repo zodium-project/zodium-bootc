@@ -26,3 +26,4 @@ modules:
           - plasma-discover-flatpak
           - plasma-discover
           - kinfocenter
+          - input-remapper
