@@ -25,7 +25,7 @@ jobs:
           - zodium-mesa.yml
           - zodium-hybrid.yml
           - zodium-nvidia.yml
-          - zodium-nvidia-lts.yml
+          - zodium-nvidia-580.yml
 
     steps:
       - name: Build Zodium Image
