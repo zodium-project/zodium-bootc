@@ -1,2 +1,2 @@
 [Accounts]
-UserGroups=wheel,gamemode,kvm,docker,plugdev
+UserGroups=wheel,gamemode,kvm,docker,plugdev,libvirt
