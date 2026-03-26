@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
+
+modules:
+
+ - type: script
+   scripts:
+      - Vscode-Repo.sh
+   snippets:
+      - dnf upgrade --refresh --setopt=install_weak_deps=False -y
