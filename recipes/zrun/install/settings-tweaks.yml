@@ -17,4 +17,4 @@ modules:
       - "systemctl enable plasmalogin.service"
 
    scripts:
-      - remove-fedora-branding.sh
+      - Remove-Branding.sh
