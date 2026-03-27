@@ -4,12 +4,9 @@ TO-DO ;
 1. Extend Images ( old nvidia , framework , razer , xbox+sony controller ...)
 3. fix session-restore (dosen't work on bazzite & Aurora too but works on cachyOS ) ( fedora packaging problem ?? )
 5. better+more wallpapers & extend images in current wallpapers ( more resolutions )
-6. remove breeze-twilight look-and-feel ? or add zodium-twilight look-and-feel ?
 7. add update-system.desktop
 8. add bold-brew.desktop ( cli to browser homebrew )
 9. change default plasma-panel + customize it ?
-10. add a dock+panel look ? make it default ?
-11. add custom splash screen ( patch the breeze one & ship )
 12. add a initial-setup/welcome app ? tauri ? 
 13. make a new branch ( unstable & rename current one to stable)
 14. reduce default wallpapers to 5 & add a zust script to add/choose wallpapers.
