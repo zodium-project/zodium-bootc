@@ -15,7 +15,6 @@ modules:
    snippets:
       - "systemctl enable plasma-setup.service"
       - "systemctl enable plasmalogin.service"
-      - "plymouth-set-default-theme zomac-plasma"
 
    scripts:
       - Remove-Branding.sh
