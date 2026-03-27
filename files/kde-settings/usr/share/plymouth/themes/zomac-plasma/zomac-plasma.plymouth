@@ -37,7 +37,7 @@ UseEndAnimation=true
 UseFirmwareBackground=false
 
 [reboot]
-UseEndAnimation=true
+UseEndAnimation=false
 UseFirmwareBackground=false
 
 [updates]
