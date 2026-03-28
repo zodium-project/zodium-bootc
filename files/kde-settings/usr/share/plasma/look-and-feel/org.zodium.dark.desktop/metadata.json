@@ -8,10 +8,10 @@
             }
         ],
         "Category": "",
-        "Description": "KDE dark look-and-feel for zodium linux",
-        "Id": "org.zodium.dark.desktop",
+        "Description": "KDE look-and-feel for zodium linux",
+        "Id": "org.zodium.desktop",
         "License": "GPLv2+",
-        "Name": "Zodium Dark",
+        "Name": "Zodium",
         "Website": "https://github.com/zodium-project"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
