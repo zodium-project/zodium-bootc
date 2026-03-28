@@ -7,3 +7,7 @@ accentColorFromWallpaper=true
 
 [Icons]
 Theme=breeze-dark
+
+[KSplash]
+Engine=none
+Theme=none
