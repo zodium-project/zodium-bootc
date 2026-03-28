@@ -17,7 +17,6 @@ platforms:
 modules:
 ## Import Modules/Scripts ##
   - from-file: zrun/tweak/pre-setup-tweaks.yml
-  - from-file: zrun/install/pre-setup-upgrade.yml
   - from-file: zrun/install/kde-plasma.yml
   - from-file: zrun/install/kde-plasma-addons.yml
   - from-file: zrun/install/kde-plasma-extras.yml
