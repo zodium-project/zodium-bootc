@@ -6,6 +6,7 @@ modules:
     repos:
       copr:
         - scottames/ghostty
+        - sneexy/zen-browser
     install:
       install-weak-deps: false
       packages:
@@ -14,6 +15,7 @@ modules:
           - ark
           - spectacle
           - ghostty
+          - zen-browser
           - gwenview
           - kalk
           - code
