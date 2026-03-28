@@ -24,3 +24,4 @@ modules:
         - plasma-workspace-wallpapers
         - plasma-nm-openconnect
         - plasma-drkonqi
+        - konsole

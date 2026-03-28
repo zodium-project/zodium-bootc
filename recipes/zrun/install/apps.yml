@@ -3,14 +3,17 @@
 
 modules:
   - type: dnf
+    repos:
+      copr:
+        - scottames/ghostty
     install:
-       install-weak-deps: false
-       packages:
+      install-weak-deps: false
+      packages:
           - dolphin
           - dolphin-plugins
           - ark
           - spectacle
-          - konsole
+          - ghostty
           - gwenview
           - kalk
           - code
