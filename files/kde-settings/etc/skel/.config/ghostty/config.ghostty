@@ -13,31 +13,14 @@ font-size = 14
 cursor-style = underline
 cursor-style-blink = false
 
-# ── colors ───────────────────────────────
-background = #111418
-foreground = #b8cad4
-selection-background = #1e2830
-selection-foreground = #ccdae4
-cursor-color = #7ab0c8
-
-# ── palette ──────────────────────────────
-palette = 0=#1c2128
-palette = 8=#606a74
-palette = 1=#b85c58
-palette = 9=#d07872
-palette = 2=#6a9872
-palette = 10=#88b48c
-palette = 3=#a0906a
-palette = 11=#bca882
-palette = 4=#527898
-palette = 12=#6e9ab4
-palette = 5=#787898
-palette = 13=#9494b0
-palette = 6=#4e8888
-palette = 14=#6aa4a2
-palette = 7=#8898a4
-palette = 15=#b8cad4
+# ── Theming ───────────────────────────────
+theme = light:zodium-light,dark:zodium-dark
 palette-generate = true
+window-theme = ghostty
+gtk-toolbar-style = raised-border
+gtk-titlebar-style = native
+gtk-tabs-location = bottom
+gtk-wide-tabs = true
 
 # ── working directory ────────────────────
 working-directory = inherit
@@ -49,3 +32,5 @@ scrollbar = system
 scrollback-limit = 10000
 mouse-hide-while-typing = true
 shell-integration-features = no-cursor
+clipboard-read = allow
+window-vsync = false
