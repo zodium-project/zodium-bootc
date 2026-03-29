@@ -28,3 +28,11 @@ modules:
           - plasma-discover
           - kinfocenter
           - input-remapper
+
+  - type: script
+    snippets:
+        - "rm -rf /etc/yum.repos.d/vscode.repo"
+        - "dnf -y copr disable scottames/ghostty"
+        - "dnf -y copr disable sneexy/zen-browser"
+        - "rm -rf /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:scottames:ghostty.repo"
+        - "rm -rf /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:sneexy:zen-browser.repo"
