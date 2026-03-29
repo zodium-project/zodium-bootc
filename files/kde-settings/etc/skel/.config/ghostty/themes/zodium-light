@@ -1,6 +1,6 @@
-background = #f6f5f4
+background = #f6f5f4e1
 foreground = #2d3b45
-selection-background = #d0dde6
+selection-background = #c1d8e9de
 selection-foreground = #1c2a34
 cursor-color = #527898
 palette = 0=#e8edf0
