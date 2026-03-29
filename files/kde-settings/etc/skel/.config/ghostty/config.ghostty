@@ -12,6 +12,7 @@ font-size = 14
 # ── cursor ───────────────────────────────
 cursor-style = underline
 cursor-style-blink = false
+custom-shader = shader/cursor_sweep.glsl
 
 # ── Theming ───────────────────────────────
 theme = light:zodium-light,dark:zodium-dark
