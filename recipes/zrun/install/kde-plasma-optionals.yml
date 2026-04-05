@@ -23,4 +23,6 @@ modules:
           - krdc
           - adwaita-fonts-all
           - orca
+          - speech-dispatcher
+          - espeak-ng
           - kde-inotify-survey
