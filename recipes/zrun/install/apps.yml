@@ -2,10 +2,6 @@
 # yaml-language-server: $schema=https://schema.blue-build.org/module-list-v1.json
 
 modules:
-  - type: script
-    scripts:
-       - Vscode-Repo.sh
-
   - type: dnf
     repos:
       copr:
@@ -18,7 +14,6 @@ modules:
           - ark
           - spectacle
           - ghostty
-          - code
           - kde-partitionmanager
           - kde-connect
           - plasma-systemsettings
@@ -32,6 +27,5 @@ modules:
 
   - type: script
     snippets:
-        - "rm -rf /etc/yum.repos.d/vscode.repo"
         - "dnf -y copr disable scottames/ghostty"
         - "rm -rf /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:scottames:ghostty.repo"
