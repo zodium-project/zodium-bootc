@@ -15,6 +15,3 @@ modules:
     # - "systemctl enable plasma-setup.service"
       - "systemctl enable plasmalogin.service"
       - "systemctl enable switcheroo-control.service"
-
-   scripts:
-      - Remove-Branding.sh
