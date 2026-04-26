@@ -3,9 +3,6 @@
 
 modules:
   - type: dnf
-    repos:
-      copr:
-        - scottames/ghostty
     install:
       install-weak-deps: false
       packages:
@@ -14,7 +11,6 @@ modules:
           - ark
           - spectacle
           - ghostty
-          - helium-drm
           - kde-partitionmanager
           - kde-connect
           - plasma-systemsettings
@@ -25,9 +21,3 @@ modules:
           - plasma-discover
           - kinfocenter
           - input-remapper
-
-  - type: script
-    snippets:
-        - |
-          dnf -y copr disable scottames/ghostty 
-          rm -rf /etc/yum.repos.d/_copr:copr.fedorainfracloud.org:scottames:ghostty.repo
